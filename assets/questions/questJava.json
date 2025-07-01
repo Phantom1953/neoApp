@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Какой оператор используется для вывода в консоль в Java?",
+    "answers": ["System.print()", "System.out.println()", "Console.write()", "print()"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Как объявить переменную целого типа в Java?",
+    "answers": ["int x;", "integer x;", "var x;", "Int x;"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой тип данных используется для хранения одного символа в Java?",
+    "answers": ["String", "char", "Character", "letter"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Как создать массив целых чисел в Java?",
+    "answers": ["int[] arr = new int[10];", "Array int = new Array(10);", "int arr[] = [10];", "new array(10) of int;"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор используется для сравнения объектов в Java?",
+    "answers": ["=", "==", "equals()", "compare()"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Как объявить константу в Java?",
+    "answers": ["const int VALUE = 10;", "final int VALUE = 10;", "constant int VALUE = 10;", "static int VALUE = 10;"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой модификатор доступа является самым ограничивающим?",
+    "answers": ["public", "private", "protected", "package-private"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Как создать объект класса String?",
+    "answers": ["String s = new String(text);", "String s = text;", "Оба варианта верны", "Ни один из вариантов не верен"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой оператор используется для проверки типа объекта?",
+    "answers": ["typeof", "instanceof", "getClass()", "type()"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Как объявить метод в Java?",
+    "answers": ["function myMethod() {}", "def myMethod() {}", "void myMethod() {}", "method myMethod() {}"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой цикл выполняется, пока условие истинно?",
+    "answers": ["for", "while", "do-while", "foreach"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Как обработать исключение в Java?",
+    "answers": ["try-catch", "handle", "exception", "error"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой класс является родительским для всех классов в Java?",
+    "answers": ["Object", "Class", "Parent", "Super"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Как объявить абстрактный класс?",
+    "answers": ["abstract class MyClass {}", "class abstract MyClass {}", "virtual class MyClass {}", "class MyClass abstract {}"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор используется для выхода из цикла?",
+    "answers": ["exit", "break", "continue", "return"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Как объявить интерфейс в Java?",
+    "answers": ["interface MyInterface {}", "abstract interface MyInterface {}", "class interface MyInterface {}", "protocol MyInterface {}"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой тип коллекции не допускает дубликаты?",
+    "answers": ["ArrayList", "LinkedList", "HashSet", "HashMap"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Как создать поток (Thread) в Java?",
+    "answers": ["new Thread()", "new Thread(Runnable)", "extends Thread", "Все варианты верны"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Какой метод вызывается при создании объекта?",
+    "answers": ["init()", "start()", "constructor()", "Конструктор"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Как объявить статический метод?",
+    "answers": ["static void myMethod() {}", "void static myMethod() {}", "method static myMethod() {}", "void myMethod() static {}"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор используется для наследования класса?",
+    "answers": ["implements", "extends", "inherits", ":"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой оператор используется для реализации интерфейса?",
+    "answers": ["implements", "extends", "inherits", ":"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Как создать список (List) в Java?",
+    "answers": [
+      "List list = new List();",
+      "List list = new ArrayList();",
+      "ArrayList list = new List();",
+      "List list = List.create();"
+      ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой оператор используется для выхода из метода?",
+    "answers": [
+        "exit",
+        "break",
+        "continue",
+        "return"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Как объявить перечисление (enum)?",
+    "answers": [
+      "enum MyEnum {}",
+      "class enum MyEnum {}",
+      "enumeration MyEnum {}",
+      "class MyEnum extends Enum {}"
+    ],
+    "correctAnswer": 0
+  },
+  {
+     "question": "Какой символ используется для однострочного комментария?",
+     "answers": [
+        "//",
+        "#",
+        "--",
+        "/*"
+     ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой метод вызывается автоматически при сборке мусора?",
+    "answers": [
+        "destroy()",
+        "finalize()",
+        "cleanup()",
+        "gc()"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Как создать анонимный класс?",
+    "answers": [
+        "new Class() {}",
+        "anonymous Class()",
+        "class {}",
+        "new AnonymousClass()"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор используется для приведения типов?",
+    "answers": [
+        "cast",
+        "(type)",
+        "convert",
+        "as"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой модификатор делает метод доступным только в пределах пакета?",
+    "answers": [
+        "private",
+        "protected",
+        "public",
+        "Без модификатора"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Как создать потокобезопасную коллекцию?",
+    "answers": [
+        "Collections.synchronizedList()",
+        "new ConcurrentList()",
+        "new ThreadSafeList()",
+        "List.synchronize()"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой метод используется для сравнения строк?",
+    "answers": [
+        "equals()",
+        "compareTo()",
+        "Оба варианта верны",
+        "Ни один не верен"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Как объявить генерацию исключения в методе?",
+    "answers": [
+        "throws",
+        "throw",
+        "exception",
+        "error"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой интерфейс используется для сортировки?",
+    "answers": [
+        "Sortable",
+        "Comparable",
+        "Comparator",
+        "Ordered"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Как получить текущее время в миллисекундах?",
+    "answers": [
+        "System.currentTime()",
+        "System.getCurrentTime()",
+        "System.currentTimeMillis()",
+        "Time.now()"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Как создать подкласс?",
+    "answers": [
+        "class Child extends Parent {}",
+        "class Child implements Parent {}",
+        "class Child : Parent {}",
+        "class Child inherits Parent {}"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор используется для работы с ресурсами?",
+    "answers": [
+        "with",
+        "try-with-resources",
+        "using",
+        "resource"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой тип данных используется для логических значений?",
+    "answers": [
+        "bool",
+        "boolean",
+        "Boolean",
+        "logical"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Как объявить метод с переменным числом аргументов?",
+    "answers": [
+        "void method(int... args) {}",
+        "void method(int[] args) {}",
+        "void method(varargs int args) {}",
+        "void method(int args...) {}"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор используется для создания объекта?",
+    "answers": [
+        "new",
+        "create",
+        "make",
+        "object"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой класс используется для работы с файлами?",
+    "answers": [
+        "File",
+        "FileStream",
+        "FileReader",
+        "FileSystem"
+    ],
+    "correctAnswer": 0
+  }
+]

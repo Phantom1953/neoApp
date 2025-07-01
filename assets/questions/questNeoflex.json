@@ -1,0 +1,491 @@
+[
+  {
+    "question": "В каком году была основана компания Neoflex?",
+    "answers": ["2002", "2005", "2010", "2015"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Где находится головной офис Neoflex в России?",
+    "answers": ["Москва", "Санкт-Петербург", "Казань", "Новосибирск"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "В какой отрасли специализируется Neoflex?",
+    "answers": [
+      "Финансовые технологии",
+      "Нефтегазовая промышленность",
+      "Розничная торговля",
+      "Здравоохранение"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой сертификат ISO имеет Neoflex?",
+    "answers": [
+      "ISO 9001",
+      "ISO 14001",
+      "ISO 27001",
+      "Все перечисленные"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Какое направление НЕ входит в специализацию Neoflex?",
+    "answers": [
+      "Цифровая трансформация",
+      "Искусственный интеллект",
+      "Разработка игр",
+      "Аналитика данных"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой банк является партнером Neoflex?",
+    "answers": [
+      "Сбербанк",
+      "Тинькофф",
+      "Альфа-Банк",
+      "Все перечисленные"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Какой продукт Neoflex помогает банкам в скоринге?",
+    "answers": [
+      "NeoScoring",
+      "NeoScoring",
+      "NeoScore",
+      "ScoringFlex"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Как называется платформа Neoflex для автоматизации кредитования?",
+    "answers": [
+      "NeoCredit",
+      "NeoLending",
+      "LoanFactory",
+      "CreditFlex"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "В каких странах, кроме России, присутствует Neoflex?",
+    "answers": [
+      "Казахстан и Беларусь",
+      "Украина и Польша",
+      "Германия и Франция",
+      "Китай и Индия"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой конкурс для IT-специалистов проводит Neoflex?",
+    "answers": [
+      "NeoCup",
+      "FlexHack",
+      "NeoChallenge",
+      "DigitalBattle"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Как называется программа стажировки в Neoflex?",
+    "answers": [
+      "NeoStart",
+      "FlexIntern",
+      "NeoAcademy",
+      "StartFlex"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой университет является партнером Neoflex в образовательных программах?",
+    "answers": [
+      "МГУ",
+      "ВШЭ",
+      "МИФИ",
+      "МФТИ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой процент сотрудников Neoflex работает в разработке?",
+    "answers": [
+      "Около 30%",
+      "Около 50%",
+      "Около 70%",
+      "Около 90%"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой подход к разработке использует Neoflex?",
+    "answers": [
+      "Waterfall",
+      "Agile",
+      "Spiral",
+      "RAD"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой язык программирования НЕ является основным в Neoflex?",
+    "answers": [
+      "Java",
+      "Python",
+      "C++",
+      "JavaScript"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Как называется система управления проектами в Neoflex?",
+    "answers": [
+      "NeoPM",
+      "FlexManage",
+      "Jira",
+      "Redmine"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой фреймворк Spring активно используется в Neoflex?",
+    "answers": [
+      "Spring Boot",
+      "Spring MVC",
+      "Spring Cloud",
+      "Все перечисленные"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Какой облачный провайдер используется в Neoflex?",
+    "answers": [
+      "AWS",
+      "Microsoft Azure",
+      "Google Cloud",
+      "Все перечисленные"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Какой инструмент CI/CD используется в Neoflex?",
+    "answers": [
+      "Jenkins",
+      "GitLab CI",
+      "TeamCity",
+      "Все перечисленные"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Какую методологию тестирования применяет Neoflex?",
+    "answers": [
+      "TDD",
+      "BDD",
+      "Обе",
+      "Ни одну"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Как называется внутренняя система знаний Neoflex?",
+    "answers": [
+      "NeoWiki",
+      "FlexBase",
+      "KnowledgeHub",
+      "NeoBrain"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Как часто проводятся внутренние митапы в Neoflex?",
+    "answers": [
+      "Еженедельно",
+      "Ежемесячно",
+      "Ежеквартально",
+      "По потребности"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой тип занятости преобладает в Neoflex?",
+    "answers": [
+      "Офис",
+      "Удаленка",
+      "Гибрид",
+      "Все одинаково"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Как называется корпоративный университет Neoflex?",
+    "answers": [
+      "NeoUniversity",
+      "FlexAcademy",
+      "NeoSchool",
+      "Digital Campus"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой социальной сетью активно пользуется Neoflex для найма?",
+    "answers": [
+      "LinkedIn",
+      "hh.ru",
+      "Habr Career",
+      "Все перечисленные"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Какой бонус НЕ предоставляет Neoflex сотрудникам?",
+    "answers": [
+      "ДМС",
+      "Спорт компенсация",
+      "Обучение за счет компании",
+      "Корпоративное жилье"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Как называется программа рекомендаций сотрудников в Neoflex?",
+    "answers": [
+      "NeoFriends",
+      "FlexTeam",
+      "Referral Program",
+      "TeamBonus"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой график работы в Neoflex?",
+    "answers": [
+      "Жесткий 8/5",
+      "Гибкий график",
+      "Свободный",
+      "Вахтовый метод"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой отдел отвечает за цифровую трансформацию в Neoflex?",
+    "answers": [
+      "Digital Lab",
+      "Innovation Center",
+      "NeoDigital",
+      "Tech Futures"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой принцип работы является ключевым для Neoflex?",
+    "answers": [
+      "Customer first",
+      "Quality above all",
+      "Innovation driven",
+      "Все перечисленные"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Как называется внутренний чат-бот Neoflex?",
+    "answers": [
+      "NeoBot",
+      "FlexHelper",
+      "NeoAssistant",
+      "Digital Buddy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой индекс удовлетворенности сотрудников в Neoflex?",
+    "answers": [
+      "75%",
+      "82%",
+      "89%",
+      "94%"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой подход используется к карьерному росту в Neoflex?",
+    "answers": [
+      "Вертикальный",
+      "Горизонтальный",
+      "Матричный",
+      "Индивидуальные траектории"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Как называется программа адаптации новых сотрудников?",
+    "answers": [
+      "NeoStart",
+      "First90",
+      "Onboarding",
+      "WelcomeFlex"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой процент женщин работает в Neoflex?",
+    "answers": [
+      "25%",
+      "35%",
+      "45%",
+      "55%"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой кейс Neoflex получил награду в 2023 году?",
+    "answers": [
+      "Цифровой скоринг для Сбера",
+      "AI-аналитика для ВТБ",
+      "Роботизация для Альфа-Банка",
+      "Все перечисленные"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Как называется программа волонтерства Neoflex?",
+    "answers": [
+      "NeoHelp",
+      "FlexCare",
+      "NeoGood",
+      "Социальный код"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой хэштег используют сотрудники Neoflex в соцсетях?",
+    "answers": [
+      "#NeoTeam",
+      "#FlexLife",
+      "#WeAreNeoflex",
+      "#NeoflexFamily"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой принцип Agile наиболее ценится в Neoflex?",
+    "answers": [
+      "Работающий продукт",
+      "Клиентское сотрудничество",
+      "Мотивированные специалисты",
+      "Все перечисленные"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Какой язык является основным для документации в Neoflex?",
+    "answers": [
+      "Русский",
+      "Английский",
+      "Оба",
+      "Зависит от проекта"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Как называется система грейдов в Neoflex?",
+    "answers": [
+      "Professional Path",
+      "Career Framework",
+      "Skill Matrix",
+      "Growth Map"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой процент проектов Neoflex связан с банковским сектором?",
+    "answers": [
+      "40%",
+      "60%",
+      "80%",
+      "95%"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой девиз компании Neoflex?",
+    "answers": [
+      "Инновации без границ",
+      "Технологии для будущего",
+      "Просто. Надежно. Удобно.",
+      "Цифровая эволюция"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой проект Neoflex получил FinTech Award?",
+    "answers": [
+      "NeoScoring",
+      "LoanFactory",
+      "Digital Bank Platform",
+      "AI Risk Management"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Как называется внутренняя валюта поощрений в Neoflex?",
+    "answers": [
+      "NeoCoins",
+      "FlexPoints",
+      "NeoStars",
+      "Digital Tokens"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой раздел есть на сайте Neoflex для студентов?",
+    "answers": [
+      "Карьера",
+      "Стажировки",
+      "Нео.Академия",
+      "Все перечисленные"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Какой технологический тренд Neoflex считает ключевым?",
+    "answers": [
+      "AI",
+      "Blockchain",
+      "Cloud",
+      "Все перечисленные"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Какой процент сотрудников Neoflex имеет высшее образование?",
+    "answers": [
+      "85%",
+      "90%",
+      "95%",
+      "98%"
+    ],
+    "correctAnswer": 3
+  },
+  { "question": "Как называется программа менторства в Neoflex?",
+    "answers": [
+      "NeoGuide",
+      "FlexMentor",
+      "Buddy Program",
+      "Career Navigator"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой принцип является основным в корпоративной культуре Neoflex?",
+    "answers": [
+      "Ответственность",
+      "Открытость",
+      "Сотрудничество",
+      "Все перечисленные"
+    ],
+    "correctAnswer": 3
+  }
+]

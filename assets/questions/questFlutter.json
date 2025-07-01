@@ -1,0 +1,255 @@
+[
+  {
+    "question": "Какой виджет используется для создания списка с прокруткой?",
+    "answers": ["ListView", "Column", "Row", "Container"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой метод вызывается при инициализации StatefulWidget?",
+    "answers": ["initState()", "build()", "dispose()", "didChangeDependencies()"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой пакет используется для навигации между экранами?",
+    "answers": ["flutter_navigation", "go_router", "navigator", "flutter_router"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой виджет позволяет анимировать изменения значений?",
+    "answers": ["AnimatedContainer", "AnimationController", "Tween", "Transform"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой хук Lifecycle вызывается при обновлении виджета?",
+    "answers": ["initState()", "didUpdateWidget()", "dispose()", "build()"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой метод используется для обновления состояния в StatefulWidget?",
+    "answers": ["updateState()", "refresh()", "setState()", "rebuild()"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой виджет используется для отображения сетки элементов?",
+    "answers": ["ListView", "Column", "GridView", "Stack"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой пакет используется для работы с HTTP-запросами?",
+    "answers": ["http", "dio", "requests", "fetch"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой виджет позволяет переключаться между вкладками?",
+    "answers": ["TabBar", "BottomNavigationBar", "Drawer", "AppBar"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой метод НЕЛЬЗЯ вызывать после await в асинхронной функции?",
+    "answers": ["Navigator.of(context).pop()",
+      "setState(() {})",
+      "BuildContext.dependOnInheritedWidgetOfExactType()",
+      "ScrollController.animateTo()"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой виджет используется для отображения диалогового окна?",
+    "answers": ["AlertDialog", "ModalBottomSheet", "SnackBar", "Tooltip"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой mixin используется для автоматического управления подписками?",
+    "answers": ["AutomaticKeepAlive", "ChangeNotifier", "TickerProviderStateMixin", "StreamBuilder"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой виджет позволяет управлять положением дочерних элементов?",
+    "answers": ["Stack", "Flex", "Wrap", "Expanded"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой метод используется для сохранения состояния при повороте экрана?",
+    "answers": ["saveState()", "restoreState()", "didUpdateWidget()", "AutomaticKeepAliveClientMixin"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Какой виджет используется для создания анимации перехода?",
+    "answers": ["AnimatedSwitcher", "Hero", "PageRouteBuilder", "Transition"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой хук вызывается перед удалением виджета из дерева?",
+    "answers": ["deactivate()", "dispose()", "didChangeDependencies()", "build()"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой виджет используется для отображения индикатора загрузки?",
+    "answers": ["ProgressBar", "CircularProgressIndicator", "LoadingWidget", "Spinner"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой пакет используется для локального хранения данных?",
+    "answers": ["shared_preferences", "local_storage", "sqlite", "hive"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой виджет позволяет создавать кастомные пути отрисовки?",
+    "answers": ["CustomPaint", "Canvas", "Path", "Painter"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой метод используется для работы с жестами?",
+    "answers": ["GestureDetector", "TouchListener", "PointerListener", "DragAndDrop"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой виджет используется для отображения текста с возможностью стилизации?",
+    "answers": ["Text", "RichText", "StyledText", "TextSpan"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой виджет позволяет создавать эффект параллакса?",
+    "answers": ["ParallaxScroll", "CustomScrollView", "SliverAppBar", "NestedScrollView"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой метод используется для работы с анимациями?",
+    "answers": ["AnimationBuilder", "AnimatedWidget", "TweenAnimationBuilder", "AnimationController"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Какой виджет позволяет создавать перетаскиваемые элементы?",
+    "answers": ["Draggable", "DragTarget", "ReorderableListView", "DragAndDrop"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой виджет используется для отображения иконок из Material Icons?",
+    "answers": ["Icon", "SvgIcon", "ImageIcon", "FontAwesomeIcon"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой виджет позволяет создавать эффект размытия?",
+    "answers": ["BlurEffect", "BackdropFilter", "Opacity", "ShaderMask"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой метод используется для работы с WebSockets?",
+    "answers": ["WebSocket.connect()", "Socket.io", "HttpClient", "Dio"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой виджет позволяет создавать кастомные скролл-эффекты?",
+    "answers": ["ScrollPhysics", "ScrollController", "CustomScrollView", "ScrollBehavior"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой пакет используется для работы с Firebase?",
+    "answers": ["firebase_core", "cloud_firestore", "google_firebase", "flutter_fire"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой виджет позволяет создавать анимацию по физическим законам?",
+    "answers": ["PhysicsAnimation", "SpringSimulation", "AnimatedPhysics", "PhysicsBasedAnimation"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой метод используется для работы с геолокацией?",
+    "answers": ["geolocator", "location", "flutter_gps", "map_controller"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой виджет позволяет создавать кастомные шейдеры?",
+    "answers": ["ShaderBuilder", "CustomPaint", "FragmentShader", "ShaderMask"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Какой виджет используется для отображения видео?",
+    "answers": ["VideoPlayer", "YoutubePlayer", "MediaPlayer", "FlutterVideo"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой метод используется для работы с камерой?",
+    "answers": ["camera", "image_picker", "photo_manager", "media_kit"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой виджет позволяет создавать анимацию затухания?",
+    "answers": ["FadeTransition", "AnimatedOpacity", "Opacity", "FadeIn"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой виджет используется для отображения SVG?",
+    "answers": ["SvgPicture", "SvgWidget", "VectorImage", "FlutterSvg"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой метод используется для работы с Push-уведомлениями?",
+    "answers": ["firebase_messaging", "flutter_notifications", "push_notification", "notification_manager"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой виджет позволяет создавать интерактивные карты?",
+    "answers": ["GoogleMap", "MapView", "FlutterMap", "MapBox"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой виджет используется для отображения PDF?",
+    "answers": ["PdfViewer", "FlutterPdf", "PdfRender", "PdfView"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой метод используется для работы с SQLite?",
+    "answers": ["sqflite", "sqlite3", "drift", "hive"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой виджет позволяет создавать эффект 'резиновой' прокрутки?",
+    "answers": ["BouncingScrollPhysics", "ClampingScrollPhysics", "AlwaysScrollableScrollPhysics", "PageScrollPhysics"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой виджет используется для отображения WebView?",
+    "answers": ["WebView", "FlutterWebView", "InAppWebView", "WebBrowser"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой метод используется для работы с биометрией?",
+    "answers": ["local_auth", "biometric_storage", "flutter_secure_storage", "fingerprint_auth"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой виджет позволяет создавать анимацию с пружинным эффектом?",
+    "answers": ["SpringAnimation", "PhysicsSimulation", "AnimatedBuilder", "TweenAnimationBuilder"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой виджет используется для отображения календаря?",
+    "answers": ["CalendarView", "TableCalendar", "DatePicker", "FlutterCalendar"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой метод используется для работы с GraphQL?",
+    "answers": ["graphql_flutter", "apollo_client", "gql", "ferry"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой виджет позволяет создавать анимацию с изменением размера?",
+    "answers": ["AnimatedSize", "SizeTransition", "ScaleTransition", "AnimatedScale"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой виджет используется для отображения чата?",
+    "answers": ["ChatView", "MessageList", "StreamChat", "FlutterChat"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой метод используется для работы с WebRTC?",
+    "answers": ["flutter_webrtc", "webrtc", "rtc_engine", "livekit"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой виджет позволяет создавать анимацию с вращением?",
+    "answers": ["RotationTransition", "AnimatedRotation", "RotatedBox", "Transform.rotate"],
+    "correctAnswer": 0
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Какой оператор используется для выборки данных из таблицы?",
+    "answers": ["GET", "SELECT", "EXTRACT", "FETCH"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой оператор добавляет новые записи в таблицу?",
+    "answers": ["INSERT", "ADD", "UPDATE", "CREATE"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор изменяет существующие записи в таблице?",
+    "answers": ["MODIFY", "CHANGE", "UPDATE", "ALTER"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой оператор удаляет записи из таблицы?",
+    "answers": ["REMOVE", "DELETE", "DROP", "ERASE"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой оператор создает новую таблицу?",
+    "answers": ["CREATE TABLE", "NEW TABLE", "ADD TABLE", "DEFINE TABLE"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор удаляет таблицу из базы данных?",
+    "answers": ["DELETE TABLE", "REMOVE TABLE", "DROP TABLE", "ERASE TABLE"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой оператор используется для фильтрации данных в запросе?",
+    "answers": ["FILTER", "WHERE", "HAVING", "CHECK"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой оператор сортирует результаты запроса?",
+    "answers": ["SORT", "ORDER BY", "GROUP BY", "ARRANGE"],
+    "correctAnswer": 1
+  },
+  {
+  "question": "Какой оператор объединяет данные из нескольких таблиц?",
+  "answers": ["MERGE", "JOIN", "COMBINE", "UNITE"],
+  "correctAnswer": 1
+  },
+  {
+    "question": "Какой тип JOIN возвращает только совпадающие строки из обеих таблиц?",
+    "answers": ["INNER JOIN", "LEFT JOIN", "RIGHT JOIN", "FULL JOIN"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор группирует данные по определенным столбцам?",
+    "answers": ["GROUP BY", "ORDER BY", "PARTITION BY", "CLUSTER BY"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор фильтрует сгруппированные данные?",
+    "answers": ["WHERE", "HAVING", "FILTER", "CHECK"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой оператор ограничивает количество возвращаемых строк?",
+    "answers": ["TOP", "LIMIT", "FIRST", "ROWNUM"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой оператор используется для поиска текста по шаблону?",
+    "answers": ["MATCH", "FIND", "LIKE", "SEARCH"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой оператор вычисляет количество строк?",
+    "answers": ["TOTAL()", "AMOUNT()", "COUNT()", "SUM()"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой оператор вычисляет сумму значений столбца?",
+    "answers": ["TOTAL()", "SUM()", "ADD()", "CALCULATE()"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой оператор находит минимальное значение в столбце?",
+    "answers": ["MIN()", "LOWEST()", "BOTTOM()", "SMALLEST()"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор находит среднее значение в столбце?",
+    "answers": ["MEDIAN()", "AVG()", "MEAN()", "CENTRAL()"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой оператор объединяет результаты двух запросов?",
+    "answers": ["MERGE", "UNION", "COMBINE", "JOIN"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой оператор создает индекс для столбца?",
+    "answers": ["ADD INDEX", "CREATE INDEX", "MAKE INDEX", "DEFINE INDEX"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой оператор изменяет структуру существующей таблицы?",
+    "answers": ["MODIFY", "CHANGE", "ALTER", "UPDATE"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой оператор создает представление (view)?",
+    "answers": ["CREATE VIEW", "DEFINE VIEW", "MAKE VIEW", "BUILD VIEW"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор используется для транзакций?",
+    "answers": ["BEGIN TRANSACTION", "START TRANSACTION", "OPEN TRANSACTION", "NEW TRANSACTION"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой оператор отменяет транзакцию?",
+    "answers": ["STOP", "CANCEL", "ABORT", "ROLLBACK"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Какой оператор подтверждает транзакцию?",
+    "answers": ["SAVE", "COMMIT", "END", "APPLY"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой оператор создает хранимую процедуру?",
+    "answers": ["CREATE PROCEDURE", "DEFINE PROCEDURE", "MAKE PROCEDURE", "BUILD PROCEDURE"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор создает триггер?",
+    "answers": ["CREATE TRIGGER", "DEFINE TRIGGER", "MAKE TRIGGER", "BUILD TRIGGER"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор удаляет триггер?",
+    "answers": ["DELETE TRIGGER", "REMOVE TRIGGER", "DROP TRIGGER", "ERASE TRIGGER"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой тип данных используется для хранения целых чисел?",
+    "answers": ["FLOAT", "INT", "VARCHAR", "BOOLEAN"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой тип данных используется для хранения текста переменной длины?",
+    "answers": ["CHAR", "TEXT", "VARCHAR", "STRING"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой тип данных используется для хранения даты и времени?",
+    "answers": ["DATE", "TIME", "DATETIME", "TIMESTAMP"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Какой оператор проверяет наличие значения в подзапросе?",
+    "answers": ["EXISTS", "IN", "ANY", "CONTAINS"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой оператор используется для сравнения со всеми значениями в подзапросе?",
+    "answers": ["ALL", "ANY", "SOME", "EVERY"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор используется для создания резервной копии базы данных?",
+    "answers": ["BACKUP", "DUMP", "EXPORT", "SAVE"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор восстанавливает базу данных из резервной копии?",
+    "answers": ["RESTORE", "IMPORT", "LOAD", "RECOVER"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор создает пользователя в базе данных?",
+    "answers": ["ADD USER", "CREATE USER", "MAKE USER", "DEFINE USER"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой оператор предоставляет права пользователю?",
+    "answers": ["ALLOW", "GRANT", "PERMIT", "AUTHORIZE"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой оператор отзывает права у пользователя?",
+    "answers": ["DENY", "REVOKE", "REMOVE", "BLOCK"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой оператор используется для вложенных запросов?",
+    "answers": ["SUBSELECT", "SUBQUERY", "INNER SELECT", "NESTED QUERY"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой оператор проверяет значение на NULL?",
+    "answers": ["IS NULL", "EQUALS NULL", "== NULL", "NULL CHECK"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор объединяет строки?",
+    "answers": ["CONCAT", "MERGE", "JOIN", "COMBINE"],
+    "correctAnswer": 0
+  },
+  {
+  "question": "Какой оператор извлекает часть строки?",
+  "answers": ["SUBSTRING", "EXTRACT", "SLICE", "CUT"],
+  "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор преобразует данные в верхний регистр?",
+    "answers": ["TO_UPPER", "UPPERCASE", "UPPER", "CAPITALIZE"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой оператор округляет число?",
+    "answers": ["ROUND", "FLOOR", "CEIL", "TRUNCATE"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор возвращает текущую дату?",
+    "answers": ["NOW()", "TODAY()", "CURRENT_DATE()", "GETDATE()"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой оператор возвращает разницу между датами?",
+    "answers": ["DATEDIFF", "DATE_DIFF", "DIFFDATE", "SUBTRACT_DATE"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор добавляет интервал к дате?",
+    "answers": ["DATE_ADD", "ADD_DATE", "PLUS_DATE", "DATE_PLUS"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Какой оператор извлекает год из даты?",
+    "answers": ["GET_YEAR", "EXTRACT YEAR", "YEAR", "DATE_YEAR"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Какой оператор создает временную таблицу?",
+    "answers": ["CREATE TEMP TABLE", "CREATE TEMPORARY TABLE", "CREATE #TABLE", "CREATE VOLATILE TABLE"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Какой оператор удаляет дубликаты из результата запроса?",
+    "answers": ["UNIQUE", "DISTINCT", "NO_DUPLICATES", "ONLY_UNIQUE"],
+    "correctAnswer": 1
+  }
+]
